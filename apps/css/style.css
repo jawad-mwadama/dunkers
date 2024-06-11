@@ -1,0 +1,20 @@
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 900 */
+
+.rubik {
+  font-family: "Rubik", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.rubik-light {
+  font-family: "Rubik", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.rubik-italic {
+  font-family: "Rubik", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
